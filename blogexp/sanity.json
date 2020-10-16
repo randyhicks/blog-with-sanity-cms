@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "My Sanity Blog"
+    "name": "blog-exp"
   },
   "api": {
     "projectId": "0e02jlqo",
